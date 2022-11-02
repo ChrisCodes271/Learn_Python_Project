@@ -1,0 +1,6 @@
+Oops. File overwritten.
+Thats okay.
+We can just append what we want on the end
+Hello
+This is a bit of text
+Have a good one. 
