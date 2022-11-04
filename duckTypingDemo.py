@@ -16,7 +16,7 @@ class Duck:
 class Chicken:
 
     def walk(self):
-        print("This Chicken is talking")
+        print("This Chicken is walking")
 
     def talk(self):
         print('This chicken is talking')
